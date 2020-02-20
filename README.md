@@ -15,7 +15,7 @@ with just one class.
 
 If I had more time I would like to add a meny to the navbar on tablet and a drop-down menu on mobile (for now its just an animation/button).
 
-
+ 
 ## View it live
 
 
