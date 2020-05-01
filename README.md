@@ -19,4 +19,4 @@ If I had more time I would like to add a meny to the navbar on tablet and a drop
 ## View it live
 
 
-malins-business-site.netlify.com
+https://malins-business-site.netlify.app
